@@ -11,4 +11,4 @@ Questa è un'applicazione API per la gestione di libri e recensioni, creata util
 - Aggiunta, aggiornamento e cancellazione di recensioni
 - Visualizzazione di libri per ISBN, autore o titolo
 
-   git clone
+   git clone https://github.com/fra-89/expressBookReviews/
